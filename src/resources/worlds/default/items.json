@@ -1,0 +1,32 @@
+{
+  "adjectives" : [
+    {
+      "name" : "Shiny",
+      "multiplier" : 1.2
+    },
+    {
+      "name" : "Sharp",
+      "multiplier" : 2.0
+    }
+  ],
+  "materials" : [
+    {
+      "name" : "Steel",
+      "multiplier" : 2.0
+    },
+    {
+      "name" : "Bronze",
+      "multiplier" : 1.5
+    }
+  ],
+  "nouns" : [
+    {
+      "name" : "Longsword",
+      "multiplier" : 12
+    },
+    {
+      "name" : "Dagger",
+      "multiplier" : 5
+    }
+  ]
+}

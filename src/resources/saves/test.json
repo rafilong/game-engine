@@ -1,0 +1,1430 @@
+{
+  "time": 0,
+  "world": {
+    "world": [
+      [
+        {
+          "x": 0,
+          "y": 0,
+          "items": [
+            {
+              "name" : "coin"
+            }
+          ],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 0,
+          "y": 5,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 0,
+          "y": 7,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 0,
+          "y": 9,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 0,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 1,
+          "y": 3,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 1,
+          "y": 4,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 1,
+          "y": 5,
+          "vendor": {
+            "items": [
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 1,
+          "y": 6,
+          "vendor": {
+            "items": [
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 1,
+          "y": 7,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "vendor": {
+            "items": [
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 0,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "vendor": {
+            "items": [
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 2,
+          "y": 5,
+          "vendor": {
+            "items": [],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 2,
+          "y": 7,
+          "vendor": {
+            "items": [
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 2,
+          "y": 9,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 0,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 3,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 3,
+          "y": 2,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 3,
+          "y": 3,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 3,
+          "y": 4,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 3,
+          "y": 5,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 3,
+          "y": 6,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 3,
+          "y": 7,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 3,
+          "y": 9,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 0,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 4,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 4,
+          "y": 3,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 4,
+          "y": 5,
+          "vendor": {
+            "items": [
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 4,
+          "y": 7,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 0,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 5,
+          "y": 1,
+          "vendor": {
+            "items": [
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 5,
+          "y": 2,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 5,
+          "y": 3,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 5,
+          "y": 4,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 5,
+          "y": 5,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 5,
+          "y": 6,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 5,
+          "y": 7,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 5,
+          "y": 8,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "vendor": {
+            "items": [
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 0,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 6,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 6,
+          "y": 3,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 6,
+          "y": 5,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 6,
+          "y": 7,
+          "vendor": {
+            "items": [
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "vendor": {
+            "items": [
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 6,
+          "y": 9,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 0,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 7,
+          "y": 1,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 7,
+          "y": 2,
+          "vendor": {
+            "items": [
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 7,
+          "y": 3,
+          "vendor": {
+            "items": [
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 7,
+          "y": 4,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 7,
+          "y": 5,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 7,
+          "y": 6,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 7,
+          "y": 7,
+          "vendor": {
+            "items": [
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 9,
+                "price": 90,
+                "name": "Shiny Bronze Dagger"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 7,
+          "y": 8,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 0,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 1,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 3,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "vendor": {
+            "items": [
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 8,
+          "y": 7,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        }
+      ],
+      [
+        {
+          "x": 9,
+          "y": 0,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 9,
+          "y": 1,
+          "vendor": {
+            "items": [],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 9,
+          "y": 2,
+          "vendor": {
+            "items": [
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 20,
+                "price": 200,
+                "name": "Sharp Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 36,
+                "price": 360,
+                "name": "Sharp Bronze Longsword"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 9,
+          "y": 3,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 9,
+          "y": 4,
+          "items": [],
+          "name": "mountains",
+          "description": "some large hills and some peaky bois."
+        },
+        {
+          "x": 9,
+          "y": 5,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 9,
+          "y": 6,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 9,
+          "y": 7,
+          "items": [],
+          "name": "abandoned town",
+          "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+        },
+        {
+          "x": 9,
+          "y": 8,
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        },
+        {
+          "x": 9,
+          "y": 9,
+          "vendor": {
+            "items": [
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 48,
+                "price": 480,
+                "name": "Sharp Steel Longsword"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              },
+              {
+                "damage": 28,
+                "price": 288,
+                "name": "Shiny Steel Longsword"
+              },
+              {
+                "damage": 21,
+                "price": 216,
+                "name": "Shiny Bronze Longsword"
+              },
+              {
+                "damage": 12,
+                "price": 120,
+                "name": "Shiny Steel Dagger"
+              },
+              {
+                "damage": 15,
+                "price": 150,
+                "name": "Sharp Bronze Dagger"
+              }
+            ],
+            "name": "Armory",
+            "description": "a place to buy some weapons."
+          },
+          "items": [],
+          "name": "a desert",
+          "description": "sand. I don’t like sand. It’s coarse and rough and irritating and it gets everywhere."
+        }
+      ]
+    ]
+  },
+  "player": {
+    "name": "Tess T",
+    "items": [
+      {
+        "name": "burrito",
+        "damage": 9001
+      }
+    ],
+    "attack": 100,
+    "defense": 10,
+    "health": 500,
+    "level": 1,
+    "location": {
+      "x": 0,
+      "y": 0,
+      "items": [],
+      "name": "abandoned town",
+      "description": "ghosts. It looks pretty scary. Wow it\u0027s looking right at me."
+    },
+    "exp": 0.0,
+    "gold": 0,
+    "maxHealth": 500
+  }
+}
